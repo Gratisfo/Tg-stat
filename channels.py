@@ -1,0 +1,22 @@
+telegram_channels = [
+    "https://t.me/kudahiko",
+    "https://t.me/andrey_pro_business",
+    "https://t.me/sellermp",
+    "https://t.me/novak_WB",
+    "https://t.me/fbs_wildberries",
+    "https://t.me/marketplace_hogwarts",
+    "https://t.me/wbsharks",
+    "https://t.me/redmilliard",
+    "https://t.me/vsegdaprosto",
+    "https://t.me/wbbillion",
+    "https://t.me/nashputwildberries",
+    "https://t.me/GvozdovMP",
+    "https://t.me/channelpromp",
+    "https://t.me/Wbtrip",
+    "https://t.me/wbsellerofficial",
+    "https://t.me/wildbox_news",
+    "https://t.me/maxprowb",
+    "https://t.me/namarketplacewithleo",
+    "https://t.me/m_keeper",
+    "https://t.me/smenik_mp"
+]
